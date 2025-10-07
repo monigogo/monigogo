@@ -1,7 +1,6 @@
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZiaWMzbTkwMjN6ZWxkbXNrazB0NHF1cjF2YWI2cnd1bGM2MjQ5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwmSDJmpHNCZi8M/giphy.gif" width="450" alt="Cover GIF"/>
 
-</div>
 
 
 
@@ -125,6 +124,5 @@ Crear **soluciones inteligentes** que combinen análisis geoespacial, inteligenc
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tu-username.tu-username)
 
-</div>
 
 ---
