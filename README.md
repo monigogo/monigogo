@@ -4,7 +4,7 @@
 </div>
 
 
-# <div>
+
 #  ¡Hola! Soy Mónica  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTg5NnN0eXdkd3F2eDJkMHp3MGlmMmtvamF3anFhM2VkMG40bmV5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOPK1BqsMEJRS/giphy.gif" width="50"/>
 </div>
 
@@ -119,7 +119,7 @@ Crear **soluciones inteligentes** que combinen análisis geoespacial, inteligenc
 **⭐ Si crees en las segundas oportunidades profesionales, dale estrella a mis repos ⭐**
  <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</div>
+
 
 *Última actualización: Siempre aprendiendo algo nuevo*
 
