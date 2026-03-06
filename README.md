@@ -4,7 +4,7 @@
 
 
 
-#  ¡Hola! Soy Mónica  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTg5NnN0eXdkd3F2eDJkMHp3MGlmMmtvamF3anFhM2VkMG40bmV5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOPK1BqsMEJRS/giphy.gif" width="50"/>
+#  ¡Hola! Soy Mónica  
 </div>
 
 
