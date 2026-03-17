@@ -18,7 +18,7 @@
 
 ## 🧭 Quién soy
 
-Ingeniera y analista con base en **GIS, Comercio Internacional e IA**, actualmente en formación intensiva como **IA Developer** (1.250h · Factoría F5) y **Deep Learning** (Saturdays.AI). Combino experiencia técnica en análisis geoespacial con capacidad de gestión operativa y orientación a negocio.
+Con base en Ingenieria y especializacion en  **GIS, Comercio Internacional e IA**, actualmente en formación intensiva como **IA Developer** (1.250h · Factoría F5) y **Deep Learning** (Saturdays.AI). Combino experiencia técnica en análisis geoespacial con capacidad de gestión operativa y orientación a negocio.
 
 Mi enfoque: transformar datos — espaciales, comerciales o no estructurados — en **decisiones inteligentes y soluciones accionables**.
 
