@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZiaWMzbTkwMjN6ZWxkbXNrazB0NHF1cjF2YWI2cnd1bGM2MjQ5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwmSDJmpHNCZi8M/giphy.gif" width="400" alt="Cover GIF"/>
+<img width="480" height="480" alt="Baby Animals Flirt GIF by Justin" src="https://github.com/user-attachments/assets/f130b6a4-99ca-4961-a220-a151755169d8" />
 
 # Mónica Gómez
 
-### Inteligencia Artificial · Data Science · GIS
+### Inteligencia Artificial · Deep Learning · GIS
 
 *Del análisis geoespacial a la IA aplicada — con visión estratégica y datos reales*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomezgomonica/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://monicagomezcv.lovable.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomezgomonica@proton.me)
- 
 
 </div>
 
@@ -18,16 +17,20 @@
 
 ## 🧭 Quién soy
 
-Con base en Ingenieria y especializacion en  **GIS, Comercio Internacional e IA**, actualmente en formación intensiva como **IA Developer** (1.250h · Factoría F5) y **Deep Learning** (Saturdays.AI). Combino experiencia técnica en análisis geoespacial con capacidad de gestión operativa y orientación a negocio.
+Con base en Ingeniería y especialización en **GIS, Comercio Internacional e IA**, completé mi formación como **IA Developer** (1.250h · Factoría F5) y actualmente me especializo en **Deep Learning** (Saturdays.AI). Combino experiencia técnica en análisis geoespacial con capacidad de gestión operativa y orientación a negocio.
 
 Mi enfoque: transformar datos — espaciales, comerciales o no estructurados — en **decisiones inteligentes y soluciones accionables**.
 
 ```python
 monica = {
-    "ubicacion":   "Madrid, España 🇪🇸",
-    "formacion":   ["Máster GIS · Esri España", "IA Developer · Factoría F5", "Deep Learning · Saturdays.AI"],
-    "foco_actual": ["Deep Learning", "LLM Agents", "RAG", "Computer Vision", "GeoAI"],
-    "idiomas":     ["Español (nativo)", "Guaraní (nativo)", "Inglés (básico)"]
+    "ubicacion":      "Madrid, España 🇪🇸",
+    "formacion":      [
+                        "Máster GIS · Esri España",
+                        "IA Developer · Factoría F5 ",
+                        "Deep Learning · Saturdays.AI  🔥"
+                      ],
+    "foco_actual":    ["Deep Learning", "Computer Vision", "LLM Agents", "RAG", "GeoAI"],
+    "idiomas":        ["Español (nativo)", "Guaraní (nativo)", "Inglés (básico)"]
 }
 ```
 
@@ -37,53 +40,60 @@ monica = {
 
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🧠 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌍 GIS & Geoespacial
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0C7BDC?style=for-the-badge&logo=esri&logoColor=white)
 ![ArcGIS Online](https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS_Enterprise-0C7BDC?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GeoServer](https://img.shields.io/badge/GeoServer-589632?style=for-the-badge&logo=geoserver&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ArcPy](https://img.shields.io/badge/ArcPy-0C7BDC?style=for-the-badge&logo=esri&logoColor=white)
 
-### 💻 Dev & Data
+### 📊 Data & Visualización
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Desarrollo & Deploy
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📈 Mi trayectoria
 
 ```
-🌍 GIS & Análisis Espacial        ████████████  ✅  Experta · Máster Esri
-🐍 Python & Data Science          █████████░░░  🔥  Sólido
-🤖 LLM Agents & RAG               ███████░░░░░  🚀  En progreso
-🧠 Deep Learning (TF/PyTorch)     ██████░░░░░░  📚  Saturdays.AI · 2026
-👁️  Computer Vision (YOLO)         █████░░░░░░░  📚  En progreso
-🗺️  GeoAI Full Stack               ████░░░░░░░░  🎯  Objetivo 2026
+🌍 GIS & Análisis Espacial           ████████████  ✅  Experta · Máster Esri
+🐍 Python, EDA & Data Science        ██████████░░  ✅  IA Developer · Factoría F5
+🤖 LLM Agents, RAG & NLP             █████████░░░  ✅  IA Developer · Factoría F5
+🔗 LangChain · LangGraph · LangSmith ████████░░░░  ✅  Completado
+🧠 Deep Learning (TF / PyTorch)      ███████░░░░░  🔥  Saturdays.AI · En curso
+👁️  Computer Vision (YOLO · OpenCV)   ██████░░░░░░  🔥  En progreso
+🗺️  GeoAI Full Stack                  █████░░░░░░░  🎯  Objetivo 2026
 ```
 
 ---
@@ -104,8 +114,8 @@ monica = {
 
 Busco proyectos donde la IA tenga impacto real. Me interesan especialmente:
 
+- 🧠 **Deep Learning aplicado** — visión artificial, CNNs, autoencoders, series temporales
 - 🤖 **Agentes LLM y sistemas RAG** para problemas concretos
-- 🧠 **Deep Learning aplicado** — visión artificial, datos geoespaciales, series temporales
 - 🗺️ **GeoAI** — cruce de inteligencia artificial y análisis espacial
 - 📊 **Data Science con impacto social o comercial**
 
